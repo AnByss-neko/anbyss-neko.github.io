@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Qihan Wang"
 title_separator          : "-"
 name                     : &name "Qihan Wang"
-description              : &description "Undergraduated from ZJU & UIUC"
+description              : &description "Undergraduate from ZJU & UIUC"
 url                      : https://anbyss-neko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AnByss-neko/anbyss-neko.github.io"
@@ -21,7 +21,7 @@ repository               : "AnByss-neko/anbyss-neko.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /images/Wqhphoto.jpg
+  avatar           : "<img src='/images/Wqhphoto.jpg'>"
   name             : "Qihan Wang 王琦涵"
   pronouns         : "he/him/his" # example: "she/her"  
   bio              : "Undergraduated Rearcher"
