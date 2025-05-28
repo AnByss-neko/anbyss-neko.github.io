@@ -24,9 +24,9 @@ author:
   avatar           : "Wqhphoto1.jpg"
   name             : "Qihan Wang 王琦涵"
   pronouns         : "he/him/his" # example: "she/her"  
-  bio              : "Undergraduated Rearcher"
+  bio              : "Undergraduate Rearcher"
   location         : "Hangzhou, Zhejiang, China"
-  employer         : 
+  employer         : # name
   uri              : # URL
   email            : "qihan.24@intl.zju.edu.cn" 
 
