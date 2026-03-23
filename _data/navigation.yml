@@ -17,8 +17,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Photo Posts"
-    url: /portfolio/
+  #- title: "Photo Posts"
+  #  url: /portfolio/
     
   #- title: "CV"
   #  url: /cv/
